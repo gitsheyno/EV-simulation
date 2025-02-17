@@ -22,6 +22,12 @@ A React-based web application for simulating and visualizing electric vehicle ch
   - The amount of charging events/actual max power demand/energy consumed per day/week/month as
     a bar chart/heatmap
 
+- **Considerations**
+  - Form validation
+  - Form submission handling
+  - Responsiveness
+  - Usability
+
 ## Technology Stack
 
 - React
@@ -85,7 +91,7 @@ src/
 
 ## Deployment
 
-_TO BE FILLED_
+- https://ev-simulation.vercel.app/
 
 ## Future Enhancements
 
